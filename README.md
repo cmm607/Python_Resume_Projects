@@ -1,1 +1,1 @@
-# Resume_ProjectsCM To share my personal/school projects with possible employers. Thanks for visiting!
+# To share my personal/school Python projects with possible employers to display my skills with Python. Thanks for visiting!
