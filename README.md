@@ -1,1 +1,1 @@
-# To share my personal/school Python projects with possible employers to display my skills with Python. Thanks for visiting!
+# To share my personal/school Python projects with possible employers to display my skills with Python. The simulation_final_project document is the code that my group submitted as part of our final project in our Simulation class. We had approved access to Circle K's data and did data exploration, fit the data to distributions, and thne ran Monte Carlo Simulations to find the optimal price that a product should be sold at. 
