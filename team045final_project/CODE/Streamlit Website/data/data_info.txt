@@ -1,0 +1,6 @@
+airport_data_filtered.csv : comes from https://openflights.org/data.php mostly used for lat-lon info to plot the to/from on the map in the website.  It comes from a worldwide dataset, but has been filtered to include only the 50 airports in the test set.
+
+airports.dat : also came from open flights website, but contains everything.  airport_data.csv didn't contain Chicago, Houston, and Denver for some reason.  Might have been a filtering error.
+
+entity_sky_id.csv : comes from the airport endpoint: looped over the 50 domestic airports and got their EntityId 's so they can be used in the get flights endpoint.  Having them here should reduce the number of calls to the API.  Has been filtered to include the 50 airports in the test set.
+
